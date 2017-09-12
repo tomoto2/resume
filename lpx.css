@@ -57,7 +57,7 @@ padding:2px 3px 2px 15px;
 
 #parameter div#author{
 	text-align:center;
-	background:url(./image/mypic_bg.gif) no-repeat;		/* 设置一个背景图片 */
+	/*background:url(./image/mypic_bg.gif) no-repeat;		/* 设置一个背景图片 */*/
 	margin-top:5px;
 }
 div#author p{
@@ -73,6 +73,7 @@ div#author p.mypic{
 }
 div#author p.mypic img{
 	border:1px solid #444444;
+	width: 150px;
 	padding:2px; margin:0px;
 }
 #parameter div{
